@@ -1,4 +1,4 @@
-import "../node_modules/jquery/dist/jquery.min.js"
+// import "../node_modules/jquery/dist/jquery.min.js"
 
 var pesoUn = $("#peso-un")
 var avisoBT = $("#aviso-bt")
